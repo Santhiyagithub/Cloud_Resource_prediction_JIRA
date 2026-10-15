@@ -9,7 +9,7 @@
 
 This project builds an end-to-end **Cloud Resource Usage Prediction and Cost Optimization** system using Machine Learning. It predicts the next-step CPU utilization of a cloud workload using recent resource usage history, and provides actionable capacity-planning recommendations.
 
-**Live Demo:** [Hugging Face Space](https://huggingface.co/spaces/) *(link to be updated after deployment)*
+**Live Demo:** [Hugging Face Space](https://huggingface.co/spaces/Santhiya08/cloud-resource-prediction) 
 
 ---
 
