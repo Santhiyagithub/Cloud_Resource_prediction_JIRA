@@ -19,6 +19,8 @@ data/
 # MLflow tracking store (local only)
 mlruns/
 mlartifacts/
+mlflow.db
+*.db
 
 # IDE / OS
 .vscode/
