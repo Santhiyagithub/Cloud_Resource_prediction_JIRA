@@ -1,0 +1,38 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Models (too large for GitHub — share via Hugging Face)
+models/
+
+# Data files (may be large or synthetic — disclosed in README)
+data/
+
+# MLflow tracking store (local only)
+mlruns/
+mlartifacts/
+
+# IDE / OS
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
+
+# Pytest cache
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Gradio temp files
+flagged/
