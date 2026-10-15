@@ -66,7 +66,7 @@ cloud-resource-prediction/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/cloud-resource-prediction.git
+git clone https://github.com/Santhiyagithub/Cloud_Resource_prediction_JIRA.git
 cd cloud-resource-prediction
 ```
 
